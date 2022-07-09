@@ -1,1 +1,65 @@
-# Project1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>⭐table try 1</title>
+</head>
+<body>
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="intro.jpg" alt="me"></td>
+            <td>
+                <h1>Omkar Rathod</h1>
+                <p>Student at <a href="#">new arts</a></p>
+                <p> <em> I am future God of digital world!😊</em><strong>I like nothing👍</strong></p>
+            </td>
+        </tr>    
+        </table>
+        <hr>
+        <h3>Books and Teaching</h3>
+        <ul>
+            <li>C programing</li>
+            <li>Webbies html css and more!</li>
+        </ul>
+        <h3>Work Experience</h3>
+        <table>
+            <tr>
+                <th>Dates</th>
+                <th>Work</th>
+            </tr>
+            <tr>
+                <td>2022-07-23</td>
+                <td>Gotham's secret Lab</td>
+            </tr>
+            <tr>
+                <td>2022-12-20</td>
+                <td>Stark Industries</td>
+            </tr>
+        </table>
+        <h3>Skills</h3>
+
+
+
+
+        <table cellspacing="5">
+            <tr>
+                <td>C programming</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td> Development</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Python</td>
+                <td>⭐⭐⭐⭐</td>
+            </tr>
+
+        </table>
+        <hr>
+        <a href="check.html">check</a>
+        <a href="check1.html">check1</a>
+</body>
+</html>
